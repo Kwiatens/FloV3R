@@ -1,1 +1,1 @@
-# FloV3R -- Open-source DiY VR headset with SteamVR support
+# FloV3R -- 100$ 2K Resolution Open-source DiY VR headset with SteamVR support 
