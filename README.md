@@ -3,3 +3,4 @@
 FloV3R VR Headset is based on "HadesVR"! -> https://github.com/HadesVR/HadesVR
 
 [This project is currently in developement]
+![FloV3R R1 Pic](https://github.com/Kwiatens/FloV3R/assets/110034652/d0c24d4b-a341-4157-9213-316a7bd58437)
