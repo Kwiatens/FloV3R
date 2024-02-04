@@ -20,8 +20,6 @@ FloV3R R1 Headset Mainboard Schematic:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/bc105dfd-a30b-4650-a584-39e9eadcd4e0)
 
 
-FloV3R VR Headset is based on "HadesVR"! -> https://github.com/HadesVR/HadesVR
-
 
 
 
