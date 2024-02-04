@@ -6,8 +6,9 @@ It is built so that you can play any SteamVR game! It features 6DoF tracking on 
 The whole build should be around $100 (with 2K display), but it might be more expensive depending on where you order the parts from. (It might be cheaper too :p)
 
 ## Printed Circuit Boards
+
 I designed the schematics and PCB's using KiCad 7.0.9. They are made and designed by me, but I took inspiration from [HadesVR](https://github.com/HadesVR/HadesVR).
-Circuit boards use some SMD components. I went this route because they are just more suitable for the purpose of something that you hold/wear.
+Circuit boards have some SMD components. I went this route because they are just more suitable for the purpose of something that you hold/wear.
 If you are not feeling like soldering them by yourself, you can always buy pre-assembled PCB's.
 Just keep in mind that this is also a good opportunity to learn how to solder them :)
 
