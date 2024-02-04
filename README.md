@@ -16,7 +16,7 @@ Just keep in mind that this is also a good opportunity to learn how to solder th
 > FloV3R R1 Headset Mainboard:
 ![FloV3R R1 Pic](https://github.com/Kwiatens/FloV3R/assets/110034652/d0c24d4b-a341-4157-9213-316a7bd58437)
 
-FloV3R R1 Headset Mainboard Schematic: 
+> FloV3R R1 Headset Mainboard Schematic: 
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/bc105dfd-a30b-4650-a584-39e9eadcd4e0)
 
 
