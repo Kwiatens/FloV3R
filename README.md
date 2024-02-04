@@ -1,5 +1,9 @@
 # FloV3R - 100$ 2K Resolution Open-source DiY VR headset with SteamVR support and 6-DoF tracking (Headset + Controllers)
 
+FloV3R VR Headset are very affordable (compared to other VR headsets).
+It is made so that you can play in any SteamVR game! It features 6DoF tracking on both the headset and controllers.
+The whole build should should be around 100$ (with 2K display), but it might be more expensive depending on where you order the parts from. (It might be cheaper too :p)
+
 FloV3R VR Headset is based on "HadesVR"! -> https://github.com/HadesVR/HadesVR
 
 [This project is currently in developement]
