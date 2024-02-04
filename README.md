@@ -1,4 +1,5 @@
 # FloV3R - DiY 6DoF VR Headset
+[This project is currently in developement]
 
 FloV3R is an DiY, affordable, and a super fun to build project made for tinkeres.
 It is built so that you can play any SteamVR game! It features 6DoF tracking on both the headset and controllers, which themself have a build in transcievers and LiPo batteries which make them wireless.
@@ -15,18 +16,13 @@ Just keep in mind that this is also a good opportunity to learn how to solder th
 > FloV3R R1 Headset Mainboard:
 ![FloV3R R1 Pic](https://github.com/Kwiatens/FloV3R/assets/110034652/d0c24d4b-a341-4157-9213-316a7bd58437)
 
-
-
-
+FloV3R R1 Headset Mainboard Schematic: 
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/bc105dfd-a30b-4650-a584-39e9eadcd4e0)
 
 
 FloV3R VR Headset is based on "HadesVR"! -> https://github.com/HadesVR/HadesVR
 
-[This project is currently in developement]
 
-FloV3R R1 Headset Mainboard:
-![FloV3R R1 Pic](https://github.com/Kwiatens/FloV3R/assets/110034652/d0c24d4b-a341-4157-9213-316a7bd58437)
 
-FloV3R R1 Headset Mainboard Schematic: 
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/bc105dfd-a30b-4650-a584-39e9eadcd4e0)
+
 
