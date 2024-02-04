@@ -1,4 +1,4 @@
-# FloV3R - 100$ 2K Resolution Open-source DiY VR headset with SteamVR support and 6-DoF tracking (Headset + Controllers)
+# FloV3R - 100$ 2K Resolution Open-source DiY VR headset + controllers with SteamVR support and 6-DoF tracking
 
 FloV3R VR Headset are very affordable (compared to other VR headsets).
 It is made so that you can play any SteamVR game! It features 6DoF tracking on both the headset and controllers.
