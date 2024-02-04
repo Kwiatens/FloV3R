@@ -1,7 +1,9 @@
-# FloV3R - 100$ 2K Resolution Open-source DiY VR headset + controllers with SteamVR support and 6-DoF tracking
+# FloV3R - DiY 6DoF VR Headset
 
-FloV3R VR Headset are very affordable (compared to other VR headsets).
-It is made so that you can play any SteamVR game! It features 6DoF tracking on both the headset and controllers.
+FloV3R VR Headset is an DiY, affordable, and super fun to build headset made for tinkeres.
+It is built so that you can play any SteamVR game! It features 6DoF tracking on both the headset and controllers.
+Controllers themself have build in transcievers and LiPo batteries which make them wireless.
+
 The whole build should be around $100 (with 2K display), but it might be more expensive depending on where you order the parts from. (It might be cheaper too :p)
 
 ## Printed Circuit Boards
