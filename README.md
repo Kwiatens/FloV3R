@@ -27,6 +27,11 @@ I recommend applying soldermask to the board. For doing vias you can electroplat
 ### FloV3R R1 Mainboard:
 The mainboard of the headset is an dual layer PCB.
 Headset uses iluminated ping-pong balls for tracking, PSMoveService makes this possible.
+For doing that we use a single NeoPixel.
+
+> Neopixel with cables:
+![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
+
 [To Do]
 
 ### FloV3R R1 Controller Mainboard:
@@ -36,6 +41,8 @@ It *does not use Bluetooth*, instead we use transceivers for it since its simple
 On the PCB there are pads for connecting wires that go into LiPo charging and protection module (I'm looking into integrating it into the PCB).
 For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCBo or some other 3D printing company.
 It is completely wireless :)
+
+For iluminating the ping-pong ball on it use single color LED - it should be pretty bright (make sure that the second controller uses different color).
 
 Part list for FloV3R VR Controller R1:
 [To Do]
