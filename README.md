@@ -20,6 +20,10 @@ I recommend applying soldermask to the board. For doing vias you can electroplat
 > FloV3R R1 Headset Mainboard:
 ![FloV3R R1 Pic](https://github.com/Kwiatens/FloV3R/assets/110034652/d0c24d4b-a341-4157-9213-316a7bd58437)
 
+> FloV3R R1 Controller Mainboard:
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/8e41a3d5-b00e-40b6-9b3c-d3ced41d3d07)
+
+
 > FloV3R R1 Headset Mainboard Schematic: 
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/bc105dfd-a30b-4650-a584-39e9eadcd4e0)
 
