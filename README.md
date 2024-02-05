@@ -8,23 +8,19 @@ The whole build should be around $100 (with 2K display), but it might be more ex
 
 ## Printed Circuit Boards
 
-> FloV3R R1 Headset Mainboard:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/45565720-d768-4add-b7b3-bcd2fadd6a63)
-
 I designed the schematics and PCB's using KiCad 7.0.9. They are designed by me, but I took inspiration from [HadesVR](https://github.com/HadesVR/HadesVR).
 Circuit boards have some SMD components. I went this route because they are just more suitable for the purpose of something that you hold/wear.
 If you are not feeling like soldering them by yourself, you can always buy pre-assembled PCB's.
 Just keep in mind that this is also a good opportunity to learn how to solder them :)
-
-> FloV3R R1 Controller Mainboard:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/0f07a239-7f68-4b9c-bd52-e8954fd70ede)
-
 
 PCB's for both the mainboard and controllers are designed for homemade fabrication.
 They are pretty challenging to make due to them being double sided. If you want to try making them on your own, use some high precision method such as the one with photo resist film.
 I recommend applying soldermask to the board. For doing vias you can electroplate them or use a wire from RJ45 cable so that you insert them into the via and solder it from both sides.
 
 ### FloV3R R1 Mainboard:
+> FloV3R R1 Headset Mainboard:
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/45565720-d768-4add-b7b3-bcd2fadd6a63)
+
 The mainboard of the headset is a dual layer PCB.
 To get the position is space it illuminates a ping-pong ball, to get the rotation it uses MPU6050 IMU.
 The illumination is done by a single Neopixel LED.
@@ -37,6 +33,9 @@ The board is pretty simple to assamble, you can look up schematics for it here: 
 [To Do]
 
 ### FloV3R R1 Controller Mainboard:
+> FloV3R R1 Controller Mainboard:
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/0f07a239-7f68-4b9c-bd52-e8954fd70ede)
+
 FloV3R Controller works on Arduino Pro Micro (8MHz @3.3V), MPU6050 IMU and NRF24l01 radio modules.
 Tracking is done using iluminated ping-pong balls, PSMoveService makes it possible.
 It *does not use Bluetooth*, instead we use transceivers for it since its simpler :)
