@@ -25,7 +25,7 @@ The mainboard of the headset is a dual layer PCB.
 To get the position in space it illuminates a ping-pong ball, to get the rotation it uses MPU6050 IMU.
 The illumination is done by a single Neopixel LED.
 
-The board is pretty simple to assamble, you can look up schematics for it here: [To Do]
+The board is pretty simple to assemble, you can look up schematics for it here: [To Do]
 
 > Neopixel with cables:
 ![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
