@@ -17,7 +17,7 @@ PCB's for both the mainboard and controllers are designed for homemade fabricati
 They are pretty challenging to make due to them being double sided. If you want to try making them on your own, use some high precision method such as the one with photo resist film.
 I recommend applying soldermask to the board. For doing vias you can electroplate them or use a wire from RJ45 cable so that you insert them into the via and solder it from both sides.
 
-### FloV3R R1 Mainboard:
+### FloV3R R1 Mainboard
 > FloV3R R1 Headset Mainboard:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/45565720-d768-4add-b7b3-bcd2fadd6a63)
 
@@ -32,7 +32,7 @@ The board is pretty simple to assamble, you can look up schematics for it here: 
 
 [To Do]
 
-### FloV3R R1 Controller Mainboard:
+### FloV3R R1 Controller Mainboard
 > FloV3R R1 Controller Mainboard:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/0f07a239-7f68-4b9c-bd52-e8954fd70ede)
 
