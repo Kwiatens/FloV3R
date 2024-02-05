@@ -9,7 +9,7 @@ The whole build should be around $100 (with 2K display), but it might be more ex
 ## Printed Circuit Boards
 
 > FloV3R R1 Headset Mainboard:
-![FloV3R R1 Pic](https://github.com/Kwiatens/FloV3R/assets/110034652/d0c24d4b-a341-4157-9213-316a7bd58437)
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/45565720-d768-4add-b7b3-bcd2fadd6a63)
 
 I designed the schematics and PCB's using KiCad 7.0.9. They are designed by me, but I took inspiration from [HadesVR](https://github.com/HadesVR/HadesVR).
 Circuit boards have some SMD components. I went this route because they are just more suitable for the purpose of something that you hold/wear.
