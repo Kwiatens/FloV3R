@@ -27,17 +27,18 @@ I recommend applying soldermask to the board. For doing vias you can electroplat
 ### FloV3R R1 Mainboard:
 The mainboard of the headset is an dual layer PCB.
 Headset uses iluminated ping-pong balls for tracking, PSMoveService makes this possible.
-[ToDo]
+[To Do]
 
 ### FloV3R R1 Controller Mainboard:
 FloV3R Controller works on Arduino Pro Micro (8MHz @3.3V), MPU6050 IMU and NRF24l01 radio modules.
 Tracking is done using iluminated ping-pong balls, PSMoveService makes it possible.
 It *does not use Bluetooth*, instead we use transceivers for it since its simpler :)
-On the pcb we have integrated LiPo charging circuit with status LED's. 
-For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCB.
-It is completely wireless, has a built-in LiPo charging circuit with MicroUSB port so there is no need for an external charging module.
-For now use this board ONLY FOR LiPo BATTERIES that have INTEGRATED PROTECTION ⚠️ (because it does not feature undervoltage protection yet).
+On the PCB there are pads for connecting wires that go into LiPo charging and protection module (I'm looking into integrating it into the PCB).
+For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCBo or some other 3D printing company.
+It is completely wireless :)
 
+Part list for FloV3R VR Controller R1:
+[To Do]
 
 ## Displays
 
