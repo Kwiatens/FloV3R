@@ -22,7 +22,7 @@ I recommend applying soldermask to the board. For doing vias you can electroplat
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/45565720-d768-4add-b7b3-bcd2fadd6a63)
 
 The mainboard of the headset is a dual layer PCB.
-To get the position is space it illuminates a ping-pong ball, to get the rotation it uses MPU6050 IMU.
+To get the position in space it illuminates a ping-pong ball, to get the rotation it uses MPU6050 IMU.
 The illumination is done by a single Neopixel LED.
 
 The board is pretty simple to assamble, you can look up schematics for it here: [To Do]
