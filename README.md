@@ -38,10 +38,10 @@ The board is pretty simple to assemble, you can look up schematics for it here: 
 
 FloV3R Controller works on Arduino Pro Micro (8MHz @3.3V), MPU6050 IMU and NRF24l01 radio modules.
 Tracking is done using illuminated ping-pong balls, PSMoveService makes it possible.
-It *does not use Bluetooth*, instead we use transceivers for it since its simpler :)
+It *does not use Bluetooth*, instead we use transceivers for it since it's simpler (still totally wireless).
 On the PCB there are pads for connecting wires that go into LiPo charging and protection module (I'm looking into integrating it into the PCB).
-For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCBo or some other 3D printing company.
-It is completely wireless :)
+For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCB or some other 3D printing company.
+
 
 For iluminating the ping-pong ball on it use single color LED - it should be pretty bright (make sure that the second controller uses different color).
 
