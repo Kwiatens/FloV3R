@@ -23,6 +23,10 @@ PCB's for both the mainboard and controllers are designed for homemade fabricati
 They are pretty challenging to make due to them being double sided. If you want to try making them on your own, use some high precision method such as the one with photo resist film.
 I recommend applying soldermask to the board. For doing vias you can electroplate them or use a wire from RJ45 cable so that you insert them into the via and solder it.
 
+### FloV3R R1 Mainboard:
+The mainboard of the headset is an dual layer PCB. It is the easier one to assamble :p
+[ToDo]
+
 ## Displays
 
 This headset is compatible with pretty much any screen, although I recommend following this guide from [HadesVR - Choosing the display](https://github.com/HadesVR/HadesVR/blob/main/docs/Headset.md#displays).
