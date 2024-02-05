@@ -27,7 +27,7 @@ I recommend applying soldermask to the board. For doing vias you can electroplat
 
 This headset is compatible with pretty much any screen, although I recommend following this guide from [HadesVR - Choosing the display](https://github.com/HadesVR/HadesVR/blob/main/docs/Headset.md#displays).
 
-I went with "LS055R1SX04 with Green board"
+I went with "LS055R1SX04 with Green board", due to pretty good resolution (2K) and good price.
 > LS055R1SX04 + Controll Board:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/ff7a0b52-771f-464c-926a-161258659656)
 
