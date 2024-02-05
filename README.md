@@ -1,5 +1,5 @@
 # FloV3R - DiY 6DoF VR Headset
-[This project is currently in developement]
+[This project is currently in developement, do not build it yet]
 
 FloV3R is an DiY, affordable, and a super fun to build project made for tinkeres.
 It is built so that you can play any SteamVR game! It features 6DoF tracking on both the headset and controllers, which themself have a build in transcievers and LiPo batteries which make them wireless.
