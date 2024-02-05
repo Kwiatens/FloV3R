@@ -26,7 +26,9 @@ I recommend applying soldermask to the board. For doing vias you can electroplat
 
 ### FloV3R R1 Mainboard:
 The mainboard of the headset is a dual layer PCB.
-Headset iluminates a ping-pong ball with a single NeoPixel, we use it for tracking via PSMoveService.
+To get the position is space we use iluminated ping-pong balls, to get the rotation it uses MPU6050 IMU.
+The illumination is done by a single Neopixel.
+
 The board is pretty simple to assamble, you can look up schematics for it here: [To Do]
 
 > Neopixel with cables:
