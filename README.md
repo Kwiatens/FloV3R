@@ -34,8 +34,7 @@ Tracking is done using iluminated ping-pong balls, PSMoveService makes it possib
 It *does not use Bluetooth*, instead we use transceivers for it since its simpler :)
 On the pcb we have integrated LiPo charging circuit with status LED's. 
 For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCB.
-
-The controller is completely wireless. It has a built-in LiPo charging circuit with MicroUSB port so there is no need for an external charging module.
+It is completely wireless, has a built-in LiPo charging circuit with MicroUSB port so there is no need for an external charging module.
 For now use this board ONLY FOR LiPo BATTERIES that have INTEGRATED PROTECTION ⚠️ (because it does not feature undervoltage protection yet).
 
 
