@@ -34,6 +34,8 @@ List of parts for the FloV3R R1 Headset Mainboard:
 | Arduino Pro Micro | 1 |
 | NRF24l04| 2 |
 | MPU6050 IMU (5V VERSION!) | 1 |
+| NeoPixel LED | 1 |
+| Push button 6x6mm | 1 |
 
 > Neopixel with cables:
 ![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
