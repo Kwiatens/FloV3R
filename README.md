@@ -19,8 +19,9 @@ I recommend applying soldermask to the board. For doing vias you can electroplat
 I will be dropping a tutorial on how to fabricate them in a near future!
 
 ### FloV3R R1 Mainboard
-> FloV3R R1 Headset Mainboard:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/45565720-d768-4add-b7b3-bcd2fadd6a63)
+> FloV3R R1 GEN 4 Headset Mainboard:
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/cef007e3-b4e6-4579-aa67-ac4fdbf1d79b)
+
 
 The mainboard of the headset is a dual layer PCB.
 To get the position in space it illuminates a ping-pong ball, to get the rotation it uses MPU6050 IMU.
