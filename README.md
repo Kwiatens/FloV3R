@@ -30,13 +30,13 @@ The illumination is done by a single Neopixel LED.
 The board is pretty simple to assemble, you can look up schematics for it here: [To Do]
 
 List of parts for the FloV3R R1 Headset Mainboard:
-| Part  | Quantity |
-| ------------- | ------------- |
-| Arduino Pro Micro | 1 |
-| NRF24l04| 2 |
-| MPU6050 IMU (5V VERSION!) | 1 |
-| NeoPixel LED | 1 |
-| Push button 6x6mm | 1 |
+| Part  | Quantity | Estimated Price per piece |
+| ------------- | ------------- | ------------- |
+| Arduino Pro Micro (Clone works) | 1 | $5 |
+| NRF24l04 | 2 | $1.3 |
+| MPU6050 IMU (5V VERSION!) | 1 | $2 |
+| NeoPixel LED | 1 | $0.5 |
+| Push button 6x6mm | 1 | $0.05 |
 
 > Neopixel with cables:
 ![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
