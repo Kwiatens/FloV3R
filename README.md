@@ -23,10 +23,9 @@ I will be dropping a tutorial on how to fabricate them in a near future!
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/cef007e3-b4e6-4579-aa67-ac4fdbf1d79b)
 
 > FloV3R R1 GEN 4 Mainboard Schematic:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/32042b94-110c-4f2a-90b1-866bebc8ca80)
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/1c676128-ab0e-4c9c-91a5-6d1375e7dee4)
+
  
-
-
 The mainboard of the headset is a dual layer PCB.
 To get the position in space it illuminates a ping-pong ball, to get the rotation it uses MPU6050 IMU.
 The illumination is done by a single Neopixel LED.
