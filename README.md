@@ -40,6 +40,7 @@ List of parts for the FloV3R R1 Headset Mainboard:
 | MPU6050 IMU (5V VERSION!) | 1 | $2 |
 | NeoPixel LED | 1 | $0.5 |
 | Push button 6x6mm | 1 | $0.05 |
+| SMD (1206) 10K Resistors | 2 | cheap |
 
 > Neopixel with cables (this is how it should look like):
 ![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
