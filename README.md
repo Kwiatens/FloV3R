@@ -51,14 +51,14 @@ List of parts for the FloV3R R1 Headset Mainboard:
 > FloV3R R1 Controller Mainboard:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/0f07a239-7f68-4b9c-bd52-e8954fd70ede)
 
-FloV3R Controller works on Arduino Pro Micro (8MHz @3.3V), MPU6050 IMU and NRF24l01 radio modules.
+FloV3R Controller works on Arduino Pro Micro (8MHz @3.3V), MPU6050 IMU and NRF24l01 radio module.
 Tracking is done using illuminated ping-pong balls, [PSMoveServiceEx](https://github.com/Timocop/PSMoveServiceEx/releases) makes it possible.
 It *does not use Bluetooth*, instead we use RF transceivers for it since it's simpler (still totally wireless).
 On the PCB there are pads for connecting wires that go into LiPo charging and protection module (I'm looking into integrating it into the PCB).
 For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCB or some other 3D printing company.
 
-
-For iluminating the ping-pong ball on it use single color LED - it should be pretty bright (make sure that the second controller uses different color).
+For iluminating the ping-pong ball on it we use NeoPixel LED's (same as headset mainboard).
+Tracking is done via PSMoveServiceEx and at least two cameras (PS Eye Camera highly recommended!)
 
 Part list for FloV3R VR Controller R1:
 [To Do]
