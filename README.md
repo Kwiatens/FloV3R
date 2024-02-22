@@ -1,5 +1,6 @@
 # FloV3R - DiY 6DoF VR Headset
 [This project is currently in developement, do not make it yet]
+
 For more info join our Discord server: https://discord.gg/63jcr22wdD
 
 FloV3R is an DiY, affordable, and a super fun to build project made for tinkeres.
