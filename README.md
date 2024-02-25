@@ -28,6 +28,8 @@ I will be dropping a tutorial on how to fabricate it in a near future!
 
 
 This board will be inside your headset, it collects the rotation data from the IMU, recieves data packets from controllers and sends it to your computer via USB.
+In future it will send data to the controller so it knows when to turn on/off the vibration motor inside of it.
+
 List of parts for the FloV3R R1 Headset Mainboard:
 | Part  | Quantity | Estimated Price per piece |
 | ------------- | ------------- | ------------- |
