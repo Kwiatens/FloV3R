@@ -31,7 +31,7 @@ List of parts for the FloV3R R1 Headset Mainboard:
 | Part  | Quantity | Estimated Price per piece |
 | ------------- | ------------- | ------------- |
 | Arduino Pro Micro (Clone works) | 1 | $5 |
-| NRF24l04 | 2 | $1.3 |
+| NRF24l01 | 2 | $1.3 |
 | MPU6050 IMU (5V VERSION!) | 1 | $2 |
 | AZ1117H-3.3TRE1 Voltage regulator (SMD) | 1 | $0.15 |
 | NeoPixel LED | 5 | $0.5 |
