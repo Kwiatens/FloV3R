@@ -34,7 +34,7 @@ List of parts for the FloV3R R1 Headset Mainboard:
 | Arduino Pro Micro (Clone works) | 1 | $5 |
 | MPU6050 IMU (5V VERSION!) | 1 | $2 |
 | NRF24l01 | 2 | $1.3 |
-| NeoPixel LED | 5 | $0.5 |
+| NeoPixel LED* | 5 | $0.5 |
 | Red LED 3mm | 1 | $0.15 |
 | AZ1117H-3.3TRE1 Voltage regulator (SMD) | 1 | $0.15 |
 | Push button 6x6mm | 1 | $0.05 |
@@ -46,7 +46,10 @@ List of parts for the FloV3R R1 Headset Mainboard:
 | Male Header Pins 1x3 | 1 | < $0.01 |
 > Total: ~$9.2 + PCB 
 
-> Neopixel with cables (this is how it should look like):
+Begin soldering SMD resistors, capatitors and an voltage regulator, then solder electrolitic capatitors, LED and finally breakout boars such as Arduino, IMU etc.
+Then plug it into you computer and flash the firmware to it. (todo)
+
+> *Neopixel with cables (this is how it should look like):
 ![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
 
 [To Do]
