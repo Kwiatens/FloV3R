@@ -44,8 +44,7 @@ List of parts for the FloV3R R1 Headset Mainboard:
 | 10K Resistors (SMD 1206) | 2 | < $0.01 |
 | 470R Resistor (SMD 1206) | 1 | < $0.01 |
 | Male Header Pins 1x3 | 1 | < $0.01 |
-> Total: ~$9.2 + PCB
->
+Total: ~$9.2 + PCB
 > *Neopixel with cables (this is how it should look like):
 ![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
 
