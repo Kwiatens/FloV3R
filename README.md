@@ -34,7 +34,7 @@ List of parts for the FloV3R R1 Headset Mainboard:
 | NRF24l04 | 2 | $1.3 |
 | MPU6050 IMU (5V VERSION!) | 1 | $2 |
 | AZ1117H-3.3TRE1 Voltage regulator (SMD) | 1 | $0.15 |
-| NeoPixel LED | 1 | $0.5 |
+| NeoPixel LED | 5 | $0.5 |
 | Push button 6x6mm | 1 | $0.05 |
 | 10 uF Electrolitic Capatitor (SMD) | 1 | < $0.02 |
 | 22 uF Electrolitic Capatitor (SMD) | 1 | < $0.02 |
