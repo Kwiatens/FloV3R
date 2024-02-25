@@ -49,7 +49,7 @@ List of parts for the FloV3R R1 Headset Mainboard:
 ![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
 
 
-Begin soldering SMD resistors, capatitors and an voltage regulator, then solder electrolitic capatitors, LED and finally breakout boars such as Arduino, IMU etc.
+Begin soldering SMD resistors, capatitors and the voltage regulator, then electrolitic capatitors, LED and finally breakout boars such as Arduino, IMU etc.
 Then plug it into you computer and flash the firmware to it. (todo)
 
 
