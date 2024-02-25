@@ -23,7 +23,7 @@ I will be dropping a tutorial on how to fabricate it in a near future!
 > FloV3R R1 GEN 4 Headset Mainboard:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/cef007e3-b4e6-4579-aa67-ac4fdbf1d79b)
 
-> FloV3R R1 GEN 4 Mainboard Schematic:
+> FloV3R R1 GEN 4.5 Mainboard Schematic:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/da43686b-6187-4087-be40-7386344de042)
 
 
