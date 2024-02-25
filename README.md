@@ -26,22 +26,22 @@ I will be dropping a tutorial on how to fabricate it in a near future!
 > FloV3R R1 GEN 4 Mainboard Schematic:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/1c676128-ab0e-4c9c-91a5-6d1375e7dee4)
 
- 
-The mainboard of the headset is a dual layer PCB.
-To get the position in space it illuminates a ping-pong ball, to get the rotation it uses MPU6050 IMU.
-The illumination is done by a single Neopixel LED.
-
-The board is pretty simple to assemble, you can look up schematics for it here: [To Do]
-
+This board will be inside your headset, it collects the rotation data from the IMU, recieves data packets from controllers and sends it to your computer via USB.
 List of parts for the FloV3R R1 Headset Mainboard:
 | Part  | Quantity | Estimated Price per piece |
 | ------------- | ------------- | ------------- |
 | Arduino Pro Micro (Clone works) | 1 | $5 |
 | NRF24l04 | 2 | $1.3 |
 | MPU6050 IMU (5V VERSION!) | 1 | $2 |
+| AZ1117H-3.3TRE1 Voltage regulator (SMD) | 1 | $0.15 |
 | NeoPixel LED | 1 | $0.5 |
 | Push button 6x6mm | 1 | $0.05 |
-| SMD (1206) 10K Resistors | 2 | cheap |
+| 10 uF Electrolitic Capatitor (SMD) | 1 | < $0.02 |
+| 22 uF Electrolitic Capatitor (SMD) | 1 | < $0.02 |
+| 10K Resistors (SMD 1206) | 2 | cheap |
+
+
+
 
 > Neopixel with cables (this is how it should look like):
 ![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
