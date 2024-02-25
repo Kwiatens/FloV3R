@@ -29,7 +29,8 @@ I will be dropping a tutorial on how to fabricate it in a near future!
 
 This board will be inside your headset, it collects the rotation data from the IMU, recieves data packets from controllers and sends it to your computer via USB.
 In future it will send data to the controller so it knows when to turn on/off the vibration motor inside of it.
-It uses some SMD components, but don't be scared of them, they are pretty big and after one youtube tutorial you will be able to do it. If you would have some trouble just DM me on Discord, I will help ;).
+It uses some SMD components, but don't be scared of them, they are pretty big and after one youtube tutorial you will be able to do it. 
+But stull if you would have some trouble just DM me on Discord, I will help ;).
 
 List of parts for the FloV3R R1 Headset Mainboard:
 | Part  | Quantity | Estimated Price per piece |
@@ -56,17 +57,13 @@ Begin soldering SMD resistors, capatitors and the voltage regulator, then electr
 Then plug it into you computer and flash the firmware to it. (todo)
 
 
-
-[To Do]
-
 ### FloV3R R1 Controller Mainboard
-FloV3R Controller works on Arduino Pro Micro (8MHz @3.3V), MPU6050 IMU and NRF24l01 radio module.
+FloV3R Controller works on Arduino Pro Micro, MPU6050 IMU and NRF24l01 transceiver module.
 Tracking is done using illuminated ping-pong balls, [PSMoveServiceEx](https://github.com/Timocop/PSMoveServiceEx/releases) makes it possible.
-It *does not use Bluetooth*, instead we use RF transceivers for it since it's simpler (still totally wireless).
 On the PCB there are pads for connecting wires that go into LiPo charging and protection module (I'm looking into integrating it into the PCB).
 For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCB or some other 3D printing company.
 
-For iluminating the ping-pong ball on it we use NeoPixel LED's (same as headset mainboard).
+For iluminating the ping-pong ball on it we use NeoPixel LED's (same as headset).
 Tracking is done via PSMoveServiceEx and at least two cameras (PS Eye Camera highly recommended!)
 
 Part list for FloV3R VR Controller R1:
