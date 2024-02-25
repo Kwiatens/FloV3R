@@ -38,7 +38,8 @@ List of parts for the FloV3R R1 Headset Mainboard:
 | Push button 6x6mm | 1 | $0.05 |
 | 10 uF Electrolitic Capatitor (SMD) | 1 | < $0.02 |
 | 22 uF Electrolitic Capatitor (SMD) | 1 | < $0.02 |
-| 10K Resistors (SMD 1206) | 2 | cheap |
+| 10K Resistors (SMD 1206) | 2 | < $0.01 |
+| Male Header Pins 1x3 | 1 | < $0.01 |
 
 
 
