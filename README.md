@@ -10,7 +10,7 @@ The whole build should be around $100 (with 2K display), but it might be more ex
 
 ## Printed Circuit Boards
 
-I designed the schematics and PCB's using KiCad 7.0.9 and 8.0. They are designed by me, but I took inspiration from [HadesVR](https://github.com/HadesVR/HadesVR).
+I designed the schematics and PCB's using KiCad 7.0.9 and 8.0. They are designed by me, but I took some inspiration from [HadesVR](https://github.com/HadesVR/HadesVR).
 Circuit boards have some SMD components. If you are not feeling like soldering them by yourself, you can always buy pre-assembled PCB's.
 Just keep in mind that this is also a good opportunity to learn how to solder them :)
 
@@ -32,14 +32,17 @@ List of parts for the FloV3R R1 Headset Mainboard:
 | Part  | Quantity | Estimated Price per piece |
 | ------------- | ------------- | ------------- |
 | Arduino Pro Micro (Clone works) | 1 | $5 |
-| NRF24l01 | 2 | $1.3 |
 | MPU6050 IMU (5V VERSION!) | 1 | $2 |
-| AZ1117H-3.3TRE1 Voltage regulator (SMD) | 1 | $0.15 |
+| NRF24l01 | 2 | $1.3 |
 | NeoPixel LED | 5 | $0.5 |
+| Red LED 3mm | 1 | $0.15 |
+| AZ1117H-3.3TRE1 Voltage regulator (SMD) | 1 | $0.15 |
 | Push button 6x6mm | 1 | $0.05 |
+| 100 nF Ceramic Capatitor (SMD 1206) | 1 | $0.05 |
 | 10 uF Electrolitic Capatitor (SMD) | 1 | < $0.02 |
 | 22 uF Electrolitic Capatitor (SMD) | 1 | < $0.02 |
 | 10K Resistors (SMD 1206) | 2 | < $0.01 |
+| 470R Resistor (SMD 1206) | 1 | < $0.01 |
 | Male Header Pins 1x3 | 1 | < $0.01 |
 
 > Neopixel with cables (this is how it should look like):
