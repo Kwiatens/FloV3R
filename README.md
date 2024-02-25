@@ -48,9 +48,6 @@ List of parts for the FloV3R R1 Headset Mainboard:
 [To Do]
 
 ### FloV3R R1 Controller Mainboard
-> FloV3R R1 Controller Mainboard:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/0f07a239-7f68-4b9c-bd52-e8954fd70ede)
-
 FloV3R Controller works on Arduino Pro Micro (8MHz @3.3V), MPU6050 IMU and NRF24l01 radio module.
 Tracking is done using illuminated ping-pong balls, [PSMoveServiceEx](https://github.com/Timocop/PSMoveServiceEx/releases) makes it possible.
 It *does not use Bluetooth*, instead we use RF transceivers for it since it's simpler (still totally wireless).
