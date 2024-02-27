@@ -20,11 +20,12 @@ I recommend applying soldermask to the board. For doing vias you can use a wire 
 I will be dropping a tutorial on how to fabricate it in a near future!
 
 ### FloV3R R1 Mainboard
-> FloV3R R1 GEN 4 Headset Mainboard:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/cef007e3-b4e6-4579-aa67-ac4fdbf1d79b)
+> FloV3R R1 GEN 5 Headset Mainboard:
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/1c912fa8-ed6f-4ef0-9f0a-33c0d00a81ab)
 
-> FloV3R R1 GEN 4.5 Mainboard Schematic:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/deda56a0-57f0-434d-ab34-566c1237d02f)
+> FloV3R R1 GEN 5 Mainboard Schematic:
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/eec7def7-70de-482e-917d-f12e31be56cd)
+
 
 
 This board will be inside your headset, it collects the rotation data from the IMU, recieves data packets from controllers and sends it to your computer via USB.
