@@ -44,8 +44,8 @@ List of parts for the FloV3R R1 Headset Mainboard:
 | AZ1117H-3.3TRE1 Voltage regulator (SMD) | 1 | $0.15 |
 | Push button 6x6mm | 1 | $0.05 |
 | 100 nF Ceramic Capatitor (SMD 1206) | 1 | $0.05 |
-| 10 uF Electrolitic Capatitor (SMD) | 1 | < $0.02 |
-| 22 uF Electrolitic Capatitor (SMD) | 1 | < $0.02 |
+| 10 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
+| 22 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
 | 10K Resistors (SMD 1206) | 2 | < $0.01 |
 | 470R Resistor (SMD 1206) | 1 | < $0.01 |
 | Male Header Pins 1x3 | 1 | < $0.01 |
