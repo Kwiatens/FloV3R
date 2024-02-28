@@ -37,9 +37,9 @@ List of parts for the FloV3R R1 GEN 5 Headset Mainboard:
 | Part  | Quantity | Estimated Price per piece |
 | ------------- | ------------- | ------------- |
 | Arduino Pro Micro (Clone works) | 1 | $5 |
-| 5V Fan | 2 | $1.2 |
 | MPU6050 IMU (5V VERSION!) | 1 | $2 |
 | NRF24l01 | 2 | $1.3 |
+| 5V Fan | 2 | $1.2 |
 | BC547 NPN Transistor | 1 | $0.5 |
 | NeoPixel LED* | 5 | $0.5 |
 | Red LED 3mm | 1 | $0.15 |
