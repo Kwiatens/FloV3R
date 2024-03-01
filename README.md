@@ -24,7 +24,7 @@ I will be dropping a tutorial on how to fabricate it in a near future!
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/1c912fa8-ed6f-4ef0-9f0a-33c0d00a81ab)
 
 > FloV3R R1 GEN 5 Mainboard Schematic:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/eec7def7-70de-482e-917d-f12e31be56cd)
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/3382e2a8-382d-47ce-9b34-629fe293ed5d)
 
 
 
