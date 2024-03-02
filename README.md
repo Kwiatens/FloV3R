@@ -72,8 +72,18 @@ For the assembly you would need some 3D Printed parts, if you don't have a 3D-Pr
 For iluminating the ping-pong ball on it we use NeoPixel LED's (same as headset).
 Tracking is done via PSMoveServiceEx and at least two cameras (PS Eye Camera highly recommended!)
 
-Part list for FloV3R VR Controller R1:
-[To Do]
+Part list for FloV3R VR Controller R1 (for each controller):
+| Part  | Quantity | Estimated Price per piece |
+| Arduino Pro Mini | 1 | $2 |
+| MPU6050 IMU (3.3V VERSION!) | 1 | $2 |
+| NRF24l01 | 2 | $1.3 |
+| AZ1117H-3.3TRE1 Voltage regulator (SOT223) | 1 | $0.15 |
+| Female Header Pins | 1 | $0.1 |
+| Push button 6x6mm | 4 | $0.05 |
+| 10 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
+| 22 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
+| 10K Resistors (SMD 1206) | 2 | < $0.01 |
+| 3.3K Resistors (SMD 1206) | 1 | < $0.01 |
 
 ## Displays
 
