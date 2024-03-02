@@ -73,7 +73,7 @@ For iluminating the ping-pong ball on it we use NeoPixel LED's (same as headset)
 Tracking is done via PSMoveServiceEx and at least two cameras (PS Eye Camera highly recommended!)
 
 Part list for FloV3R VR Controller R1 (for each controller):
-| Part  | Quantity | Estimated Price per piece |
+| Part | Quantity | Estimated Price per piece |
 | Arduino Pro Mini | 1 | $2 |
 | MPU6050 IMU (3.3V VERSION!) | 1 | $2 |
 | COM-09032 JoyStick (PS4) | 1 | $3 |
