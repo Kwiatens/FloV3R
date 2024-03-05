@@ -88,6 +88,7 @@ Part list for FloV3R VR Controller R1 (for each controller):
 | 22 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
 | 10K Resistors (SMD 1206) | 2 | < $0.01 |
 | 3.3K Resistors (SMD 1206) | 1 | < $0.01 |
+| 1K Resistor (SMD 1206) | 1 | < $0.01 |
 
 ## Displays
 
