@@ -3,7 +3,7 @@
 For more info join our Discord server: https://discord.gg/63jcr22wdD
 
 <p align="center">
-  <img width="175" height="40.33" src="https://github.com/Kwiatens/FMS/assets/110034652/d75cc7bf-93fd-443e-ab1d-29554e22cad8">
+  <a href="https://nettigo.eu/"><img src="https://github.com/Kwiatens/FloV3R/assets/110034652/2da93bb0-0141-4983-a08a-a8fee4a400f8"></img></a>
 </p>
 
 ## About the project
