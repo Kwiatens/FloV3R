@@ -64,6 +64,8 @@ Then plug it into you computer and flash the firmware to it. (todo)
 
 
 ### FloV3R R1 Controller Mainboard
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/94f9d562-fd8c-48a8-ba62-21e59fa5b4ea)
+
 FloV3R Controller works on Arduino Pro Mini, MPU6050 IMU and NRF24l01 transceiver module.
 Tracking is done using illuminated ping-pong balls, [PSMoveServiceEx](https://github.com/Timocop/PSMoveServiceEx/releases) makes it possible.
 On the PCB there are pads for connecting wires that go into LiPo charging and protection module (I'm looking into integrating it into the PCB).
