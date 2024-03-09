@@ -86,7 +86,7 @@ Part list for FloV3R VR Controller R1 (for each controller):
 | ------------- | ------------- | ------------- |
 | Arduino Pro Mini | 1 | $2 |
 | MPU6050 IMU (3.3V VERSION!) | 1 | $2 |
-| COM-09032 Joystick (PS4) | 1 | $3 |
+| JoyStick | 1 | $3 |
 | NRF24l01 | 2 | $1.3 |
 | LiPo 1S 3.7V battery (minimum recommended capacity - 1000mAh)| 1 | $4 | 
 | TP4056 USB-C LiPo Charging Circuit | 1 | $1 |
