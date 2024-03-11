@@ -102,6 +102,8 @@ Part list for FloV3R VR Controller R1 (for each controller):
 | 3.3K Resistors (SMD 1206) | 1 | < $0.01 |
 | 1K Resistor (SMD 1206) | 1 | < $0.01 |
 
+To flash the frimware on it I highly recommend 'TTL PL2303' programmer.
+
 ## Displays
 
 This headset is compatible with pretty much any screen, although I recommend following this guide from [HadesVR - Choosing the display](https://github.com/HadesVR/HadesVR/blob/main/docs/Headset.md#displays).
