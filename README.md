@@ -61,7 +61,8 @@ List of parts for the FloV3R R1 GEN 5 Headset Mainboard:
 | 470R Resistor (SMD 1206) | 1 | < $0.01 |
 | | | Total: ~$11 + PCB |
 
-*DO NOT buy an Arduino Pro Micro with an micro USB connector, ONLY buy USB-C one! (The micro USB ones have a suuuper weak solder joint with the connector and it can just break off - learnd that the hard way)
+*DO NOT buy an Arduino Pro Micro with an micro USB connector, ONLY buy USB-C one! (The micro USB ones have a suuuper weak solder joint with the connector and it can just break off - learnd that the hard way...)
+
 **Neopixel with cables (this is how it should look like):
 ![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
 
