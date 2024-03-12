@@ -98,10 +98,12 @@ Part list for FloV3R VR Controller R1 (for each controller):
 | Push button 6x6mm | 4 | $0.05 |
 | 10 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
 | 22 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
+| S1M Rectifier diode* (SMD) | 1 | < $0.01 |
 | 10K Resistors (SMD 1206) | 2 | < $0.01 |
 | 3.3K Resistors (SMD 1206) | 1 | < $0.01 |
 | 1K Resistor (SMD 1206) | 1 | < $0.01 |
 
+*This diode isn't required, however I HIGHLY recommended it for safety! (If not using it just short the connections on it's footprint)
 To flash the frimware on it I highly recommend 'TTL PL2303' programmer.
 
 ## Displays
