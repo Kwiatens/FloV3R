@@ -80,6 +80,8 @@ FloV3R Controller works on Arduino Pro Mini, MPU6050 IMU and NRF24l01 transceive
 Tracking is done using illuminated ping-pong balls, [PSMoveServiceEx](https://github.com/Timocop/PSMoveServiceEx/releases) makes it possible.
 On the PCB there are pads for connecting wires that go into LiPo charging and protection module (I'm looking into integrating it into the PCB).
 For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCB or some other 3D printing company.
+It uses an analog stick from an Xbox Series X controler (ALPS).
+You could use hall-efect based ones for highier reliability, but they are much more expensive so I won't include them in the final price.
 
 For iluminating the ping-pong ball on it we use NeoPixel LED's (same as headset).
 Tracking is done via PSMoveServiceEx and at least two cameras (PS Eye Camera highly recommended!)
