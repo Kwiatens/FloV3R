@@ -113,7 +113,7 @@ To flash the frimware on it I highly recommend 'TTL PL2303' programmer.
 This headset is compatible with pretty much any screen, although I recommend following this guide from [HadesVR - Choosing the display](https://github.com/HadesVR/HadesVR/blob/main/docs/Headset.md#displays).
 
 I went with "LS055R1SX04 with Green board", due to pretty good resolution (2K @72Hz) and good price.
-> LS055R1SX04 + Controll Board:
+> LS055R1SX04 + LS055R1SX04 Controll Board:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/ff7a0b52-771f-464c-926a-161258659656)
 
 
