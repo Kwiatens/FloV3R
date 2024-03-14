@@ -37,7 +37,7 @@ I will be dropping a tutorial on how to fabricate them in a near future!
 This board will be inside your headset, it collects the rotation data from the IMU, recieves data packets from controllers, sends it to your computer via USB and controls face cooling fans.
 In future it will send data to the controller so it knows when to turn on/off the vibration motor inside of it.
 It uses some SMD components, but don't be scared of them, they are pretty big and after one youtube tutorial you will be able to do it. 
-But stull if you would have some trouble just DM me on Discord, I will help ;).
+But still if you would have some trouble just DM me on Discord, I will help ;).
 
 List of parts for the FloV3R R1 GEN 5 Headset Mainboard:
 | Part  | Quantity | Estimated Price per piece |
