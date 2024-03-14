@@ -75,7 +75,8 @@ Then plug it into you computer and flash the firmware to it. (todo)
 ### FloV3R R1 Controller Mainboard
 
 > FloV3R R1 GEN 1 Controller board:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/94f9d562-fd8c-48a8-ba62-21e59fa5b4ea)
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/ea015f0c-00d7-4f16-8023-958f9d73dde4)
+
 
 FloV3R Controller works on Arduino Pro Mini, MPU6050 IMU and NRF24l01 transceiver module.
 Tracking is done using illuminated ping-pong balls, [PSMoveServiceEx](https://github.com/Timocop/PSMoveServiceEx/releases) makes it possible.
