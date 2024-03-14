@@ -55,8 +55,8 @@ List of parts for the FloV3R R1 GEN 5 Headset Mainboard:
 | 1N4007 Diode | 1 | $0.03 |
 | 10 uF Ceramic Capatitor (SMD 0805) | 1 | $0.2 |
 | 100 nF Ceramic Capatitor (SMD 1206) | 1 | $0.05 |
-| 10 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
-| 22 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
+| 10 uF Electrolitic Capatitor (SMD 4x5.3mm) | 1 | $0.02 |
+| 22 uF Electrolitic Capatitor (SMD 4x5.3mm) | 1 | $0.02 |
 | 1K Resistor (SMD 1206) | 1 | < $0.01 |
 | 10K Resistors (SMD 1206) | 2 | < $0.01 |
 | 470R Resistor (SMD 1206) | 1 | < $0.01 |
@@ -99,8 +99,8 @@ Part list for FloV3R VR Controller R1 (for each controller):
 | AZ1117H-3.3TRE1 Voltage regulator (SOT223) | 1 | $0.15 |
 | Female Header Pins | 1 | $0.1 |
 | Push button 6x6mm | 4 | $0.05 |
-| 10 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
-| 22 uF Electrolitic Capatitor (SMD) | 1 | $0.02 |
+| 10 uF Electrolitic Capatitor (SMD 4x5.3mm) | 1 | $0.02 |
+| 22 uF Electrolitic Capatitor (SMD 4x5.3mm) | 1 | $0.02 |
 | S1M Rectifier diode* (SMD) | 1 | < $0.01 |
 | 10K Resistors (SMD 1206) | 2 | < $0.01 |
 | 3.3K Resistors (SMD 1206) | 1 | < $0.01 |
