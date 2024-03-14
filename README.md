@@ -111,17 +111,9 @@ To flash the frimware on it I highly recommend 'TTL PL2303' programmer.
 
 ## Displays
 
-This headset is compatible with pretty much any screen, although I recommend following this guide from [HadesVR - Choosing the display](https://github.com/HadesVR/HadesVR/blob/main/docs/Headset.md#displays).
+FloV3R is designed for an 5.5" 2K @72Hz* LS055R1SX04 display, but with some CAD model editing it could fit pretty much any screen.
+However I still recommend sticking with LS055R1SX04 one ;)
+Links: [TODO]
 
-I went with "LS055R1SX04 with Green board", due to pretty good resolution (2K @72Hz) and good price.
 > LS055R1SX04 + LS055R1SX04 Controll Board:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/ff7a0b52-771f-464c-926a-161258659656)
-
-
-
-
-
-
-
-
-
