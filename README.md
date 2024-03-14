@@ -1,7 +1,7 @@
 # FloV3R - DiY 6DoF VR Headset
 [This project is currently in developement, do not make it yet]
 
-For more info join our Discord server: [Join](https://discord.gg/63jcr22wdD)
+For more info join our Discord server: [Click me!](https://discord.gg/63jcr22wdD)
 
 ### [Nettigo](https://nettigo.eu/) is a sponsor of this project, be sure to check them out <3
 <p align="center">
