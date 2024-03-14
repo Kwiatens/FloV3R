@@ -106,6 +106,7 @@ Part list for FloV3R VR Controller R1 (for each controller):
 | 1K Resistor (SMD 1206) | 1 | < $0.01 |
 
 *This diode isn't required, however I HIGHLY recommended it for safety! (If not using it just short the connections on it's footprint)
+
 To flash the frimware on it I highly recommend 'TTL PL2303' programmer.
 
 ## Displays
