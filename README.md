@@ -23,7 +23,7 @@ Just keep in mind that this is also a good opportunity to learn how to solder th
 PCB's for both the mainboard and controllers are designed for homemade fabrication, which i highly recommend.
 They are pretty challenging to make due to them being double sided. If you want to try making them on your own, use some high precision method such as the one with photo resist film.
 I recommend applying soldermask to the board. For doing vias you can use a wire from RJ45 cable so that you insert them into the via and solder it from both sides.
-I will be dropping a tutorial on how to fabricate it in a near future!
+I will be dropping a tutorial on how to fabricate them in a near future!
 
 ### FloV3R R1 Mainboard
 > FloV3R R1 GEN 5 Headset Mainboard:
