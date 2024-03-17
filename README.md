@@ -33,7 +33,6 @@ I will be dropping a tutorial on how to fabricate them in a near future!
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/3382e2a8-382d-47ce-9b34-629fe293ed5d)
 
 
-
 This board will be inside your headset, it collects the rotation data from the IMU, recieves data packets from controllers, sends it to your computer via USB and controls face cooling fans.
 In future it will send data to the controller so it knows when to turn on/off the vibration motor inside of it.
 It uses some SMD components, but don't be scared of them, they are pretty big and after one youtube tutorial you will be able to do it. 
@@ -109,7 +108,7 @@ Part list for FloV3R VR Controller R1 (for each controller):
 
 *This diode isn't required, however I HIGHLY recommended it for safety! (If not using it just short the connections on it's footprint)
 
-To flash the frimware on it I highly recommend 'TTL PL2303' programmer.
+To flash the frimware on it I recommend 'TTL PL2303' programmer.
 
 ## Displays
 
