@@ -115,9 +115,11 @@ To flash the frimware on it I recommend 'TTL PL2303' programmer.
 FloV3R is designed for an 5.5" 2K @72Hz* LS055R1SX04 display, but with some CAD model editing it could fit pretty much any screen.
 However I still recommend sticking with LS055R1SX04 one just for simplicity.
 
-Headset uses 40mm, 50mm focal length Fresnel lenses with 0.3mm steps:
+Headset uses 40mm, 50mm focal length Fresnel lenses with 0.3mm steps
+
+> Fresnel lens
 ![S99c6cfe4dafe436f9197e32d555aa575X](https://github.com/Kwiatens/FloV3R/assets/110034652/bd9f090b-5919-461d-a9a7-919ed96f9534)
-https://pl.aliexpress.com/item/1005004217107517.html?spm=a2g0o.cart.0.0.3029452cEMsRbM&mp=1&gatewayAdapt=glo2pol
+Buy it by clicking [here](https://pl.aliexpress.com/item/1005004217107517.html?spm=a2g0o.cart.0.0.3029452cEMsRbM&mp=1&gatewayAdapt=glo2pol)
 
 > LS055R1SX04 + LS055R1SX04 Controll Board:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/ff7a0b52-771f-464c-926a-161258659656)
