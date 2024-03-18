@@ -110,11 +110,14 @@ Part list for FloV3R VR Controller R1 (for each controller):
 
 To flash the frimware on it I recommend 'TTL PL2303' programmer.
 
-## Displays
+## Display and Optics
 
 FloV3R is designed for an 5.5" 2K @72Hz* LS055R1SX04 display, but with some CAD model editing it could fit pretty much any screen.
-However I still recommend sticking with LS055R1SX04 one ;)
-Links: [TODO]
+However I still recommend sticking with LS055R1SX04 one just for simplicity.
+
+Headset uses 40mm, 50mm focal length Fresnel lenses with 0.3mm steps.
+![20-30-40-42-50-55-60-70-80-90-100-MM-PMMA-okr-g-y jpg_80x80](https://github.com/Kwiatens/FloV3R/assets/110034652/c1cee503-4984-497b-b666-004e6b70453c)
+
 
 > LS055R1SX04 + LS055R1SX04 Controll Board:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/ff7a0b52-771f-464c-926a-161258659656)
