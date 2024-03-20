@@ -124,9 +124,9 @@ Part list for FloV3R headset optics:
 | LS055R1SX04 Driver board** | 1 | $45 |
 | Fresnel lenses | 2 | $2 |
 
-* Make sure that you get the version WITH BACKLIGHT and it supports 60Hz refresh rate!!!
+> * Make sure that you get the version WITH BACKLIGHT and it supports 60Hz refresh rate!!!
 
-** Make sure that it supports backlight and 60Hz refresh rate!!!
+> ** Make sure that it supports backlight and 60Hz refresh rate!!!
 
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/0ea9ef27-ec02-470e-af8e-bcbfe34f00b5)
 Fresnel lenses by clicking here: [AliExpress](https://pl.aliexpress.com/item/1005004217107517.html?spm=a2g0o.cart.0.0.3029452cEMsRbM&mp=1&gatewayAdapt=glo2pol)
