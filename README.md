@@ -122,4 +122,5 @@ Headset uses 40mm, 50mm focal length Fresnel lenses with 0.3mm steps
 Buy it by clicking [here](https://pl.aliexpress.com/item/1005004217107517.html?spm=a2g0o.cart.0.0.3029452cEMsRbM&mp=1&gatewayAdapt=glo2pol)
 
 > LS055R1SX04 + LS055R1SX04 Controll Board:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/ff7a0b52-771f-464c-926a-161258659656)
+![7](https://github.com/Kwiatens/FloV3R/assets/110034652/f24a7819-6a03-4832-83d6-37998c997ee5)
+
