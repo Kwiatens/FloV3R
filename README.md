@@ -117,10 +117,9 @@ However I still recommend sticking with LS055R1SX04 one just for simplicity.
 
 Headset uses 40mm, 50mm focal length Fresnel lenses with 0.3mm steps
 
-> Fresnel lens
-![S99c6cfe4dafe436f9197e32d555aa575X](https://github.com/Kwiatens/FloV3R/assets/110034652/bd9f090b-5919-461d-a9a7-919ed96f9534)
+
 Buy it by clicking [here](https://pl.aliexpress.com/item/1005004217107517.html?spm=a2g0o.cart.0.0.3029452cEMsRbM&mp=1&gatewayAdapt=glo2pol)
 
-> LS055R1SX04 + LS055R1SX04 Controll Board:
-![7](https://github.com/Kwiatens/FloV3R/assets/110034652/f24a7819-6a03-4832-83d6-37998c997ee5)
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/0ea9ef27-ec02-470e-af8e-bcbfe34f00b5)
+
 
