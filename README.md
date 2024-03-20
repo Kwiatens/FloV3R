@@ -125,6 +125,7 @@ Part list for FloV3R headset optics:
 | Fresnel lenses | 2 | $2 |
 
 * Make sure that you get the version WITH BACKLIGHT and it supports 60Hz refresh rate!!!
+
 ** Make sure that it supports backlight and 60Hz refresh rate!!!
 
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/0ea9ef27-ec02-470e-af8e-bcbfe34f00b5)
