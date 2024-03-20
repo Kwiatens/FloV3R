@@ -116,6 +116,7 @@ FloV3R is designed for an 5.5" 2K @ ~60Hz* LS055R1SX04 display, but with some CA
 However I still recommend sticking with LS055R1SX04 one just for simplicity.
 
 Headset uses 40mm, 50mm focal length Fresnel lenses with 0.3mm steps
+
 *Some driver boards can be pushed to 72Hz.
 
 Part list for FloV3R headset optics:
