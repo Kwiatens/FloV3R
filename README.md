@@ -130,5 +130,5 @@ Part list for FloV3R headset optics:
 
 
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/0ea9ef27-ec02-470e-af8e-bcbfe34f00b5)
-Fresnel lenses by clicking here: [AliExpress](https://pl.aliexpress.com/item/1005004217107517.html?spm=a2g0o.cart.0.0.3029452cEMsRbM&mp=1&gatewayAdapt=glo2pol)
+Buy Fresnel lenses by clicking here: [AliExpress](https://pl.aliexpress.com/item/1005004217107517.html?spm=a2g0o.cart.0.0.3029452cEMsRbM&mp=1&gatewayAdapt=glo2pol)
 
