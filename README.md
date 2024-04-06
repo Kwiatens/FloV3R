@@ -136,4 +136,5 @@ Here are the links from where I ordered:
 
 - Buy LS055R1SX04 driver board here (<ins>Get the C version</ins>): [AliExpress](https://pl.aliexpress.com/item/1005005216344799.html?spm=a2g0o.order_list.order_list_main.4.23181c24EYUSo8&gatewayAdapt=glo2pol)
 
+Be super careful with handeling the display! It's very thin and can be damaged easly.
 
