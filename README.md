@@ -130,10 +130,10 @@ Part list for FloV3R headset optics:
 
 Here are the links from where I ordered:
 
-Buy Fresnel lenses here: [AliExpress](https://pl.aliexpress.com/item/1005004217107517.html?spm=a2g0o.cart.0.0.3029452cEMsRbM&mp=1&gatewayAdapt=glo2pol)
+- Buy Fresnel lenses here: [AliExpress](https://pl.aliexpress.com/item/1005004217107517.html?spm=a2g0o.cart.0.0.3029452cEMsRbM&mp=1&gatewayAdapt=glo2pol)
 
-Buy 5.5" LS055R1SX04 1440*2560 (2K @60Hz) display here: [AliExpress](https://pl.aliexpress.com/item/4000999801804.html?spm=a2g0o.order_list.order_list_main.5.23181c24EYUSo8&gatewayAdapt=glo2pol)
+- Buy 5.5" LS055R1SX04 1440*2560 (2K @60Hz) display here: [AliExpress](https://pl.aliexpress.com/item/4000999801804.html?spm=a2g0o.order_list.order_list_main.5.23181c24EYUSo8&gatewayAdapt=glo2pol)
 
-Buy LS055R1SX04 driver board here (<ins>Get the C version</ins>): [AliExpress](https://pl.aliexpress.com/item/1005005216344799.html?spm=a2g0o.order_list.order_list_main.4.23181c24EYUSo8&gatewayAdapt=glo2pol)
+- Buy LS055R1SX04 driver board here (<ins>Get the C version</ins>): [AliExpress](https://pl.aliexpress.com/item/1005005216344799.html?spm=a2g0o.order_list.order_list_main.4.23181c24EYUSo8&gatewayAdapt=glo2pol)
 
 
