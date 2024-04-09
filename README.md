@@ -107,6 +107,8 @@ Part list for FloV3R VR Controller R1 (for each controller):
 
 To flash the frimware on it I recommend 'TTL PL2303' programmer.
 
+Vibration motors will be added to this controllers in the future.
+
 ## Display and Optics
 
 FloV3R is designed for an 5.5" 2K @ ~60Hz* LS055R1SX04 display, but with some CAD model editing it could fit pretty much any screen.
