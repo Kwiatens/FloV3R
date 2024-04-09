@@ -138,3 +138,6 @@ Here are the links from where I ordered:
 
 Be super careful with handeling the display! It's very thin and can be damaged easly.
 
+## 3D Printed shell
+todo
+
