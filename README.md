@@ -98,7 +98,7 @@ Part list for FloV3R VR Controller R1 (for each controller):
 | TP4056 USB-C LiPo Charging Circuit | 1 | $1 |
 | AZ1117H-3.3TRE1 Voltage regulator (SOT223) | 1 | $0.15 |
 | Female Header Pins | 1 | $0.1 |
-| Push button 6x6mm | 4 | $0.05 |
+| Push button 6x6mm | 5 | $0.05 |
 | 10 uF Electrolitic Capatitor (SMD 4x5.3mm) | 1 | $0.02 |
 | 22 uF Electrolitic Capatitor (SMD 4x5.3mm) | 1 | $0.02 |
 | 10K Resistors (SMD 1206) | 2 | < $0.01 |
