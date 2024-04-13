@@ -16,7 +16,7 @@ The whole build should be around $120 (with 5.5" 2K @60Hz display), but it might
 
 ## Printed Circuit Boards
 
-I designed the schematics and PCB's using KiCad 7.0.9 and 8.0. They are designed by me, but I took some inspiration from [HadesVR](https://github.com/HadesVR/HadesVR).
+I designed the schematics and PCB's using KiCad 7.0.9 and 8.0. They are designed by me, but I took some inspiration from [HadesVR](https://github.com/HadesVR/HadesVR) due to the use of it's Steam driver (planning to make my own driver in the future, so more cool stuff can be added).
 Circuit boards have some SMD components. If you are not feeling like soldering them by yourself, you can always buy pre-assembled PCB's.
 Just keep in mind that this is also a good opportunity to learn how to solder them :)
 
