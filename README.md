@@ -140,6 +140,9 @@ Here are the links from where I ordered:
 
 Be super careful with handeling the display! It's very thin and can be damaged easly.
 
-## 3D Printed shell
-todo
+## 3D Models and printing them
+
+> FloV3R Controller R1 Shell
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/606b7a16-7f95-4cbb-bc0a-64b96fe96108)
+
 
