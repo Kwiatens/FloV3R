@@ -78,7 +78,7 @@ Then plug it into you computer and flash the firmware to it. (todo)
 
 
 FloV3R Controller works on Arduino Pro Mini, MPU6050 IMU and NRF24l01 transceiver module.
-Tracking is done using illuminated ping-pong balls, [PSMoveServiceEx](https://github.com/Timocop/PSMoveServiceEx/releases) makes it possible.
+Tracking is done using illuminated ping-pong balls, [PSMoveServiceEx](https://github.com/Timocop/PSMoveServiceEx/releases) is used to track them.
 On the PCB there are pads for connecting wires that go into LiPo charging and protection module (I'm looking into integrating it into the PCB).
 For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCB or some other 3D printing company.
 It uses an analog stick from an Xbox Series X controler (ALPS).
