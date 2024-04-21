@@ -82,7 +82,7 @@ Tracking is done using illuminated ping-pong balls, [PSMoveServiceEx](https://gi
 On the PCB there are pads for connecting wires that go into LiPo charging and protection module (I'm looking into integrating it into the PCB).
 For the assembly you would need some 3D Printed parts, if you don't have a 3D-Printer I would recommend purchasing them from JLCPCB or some other 3D printing company.
 It uses an analog stick from an Xbox Series X controler (ALPS).
-You could use hall-efect based ones for highier reliability, but they are much more expensive so I won't include them in the final price.
+You could use hall-efect based ones for highier reliability, but they are more expensive so I won't include them in the final price.
 
 For iluminating the ping-pong ball on it we use NeoPixel LED's (same as headset).
 Tracking is done via PSMoveServiceEx and at least two cameras (PS Eye Camera highly recommended!)
@@ -92,9 +92,9 @@ Part list for FloV3R VR Controller R1 (for each controller):
 | ------------- | ------------- | ------------- |
 | Arduino Pro Mini | 1 | $2 |
 | MPU6050 IMU (3.3V) | 1 | $2 |
-| 1914 ALPS Analog stick (Xbox one) | 1 | $3 |
+| 1914 ALPS Analog stick (Xbox X/S) | 1 | $3 |
 | NRF24l01 | 2 | $1.3 |
-| LiPo 1S 3.7V battery (minimum recommended capacity - 1200mAh/4.44Wh)| 1 | $4 | 
+| LiPo 1-Cell 3.7V battery (minimum recommended capacity - 1200mAh/4.44Wh)| 1 | $4 | 
 | TP4056 USB-C LiPo Charging Circuit | 1 | $1 |
 | AZ1117H-3.3TRE1 Voltage regulator (SOT223) | 1 | $0.15 |
 | Female Header Pins | 1 | $0.1 |
