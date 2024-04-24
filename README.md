@@ -142,13 +142,13 @@ Be super careful with handeling the display! It's very thin and can be damaged e
 
 ## 3D Models and printing them
 
-> FloV3R Controller R1
-![IMG_20240424_224109136](https://github.com/Kwiatens/FloV3R/assets/110034652/608481d2-30a1-4e10-907d-e836a4641e0b)
-
-
 The whole FloV3R set is almost entirely 3D Printed. It consists of many parts, which you can download from Printables.
 Two controllers and the headset will take ~12 hours to print (aprox).
 Everything is ment to be printed in PLA/ABS/ASA/PET-G filament.
+
+### FloV3R Controller R1
+Our controller requires 8 - 3D printed parts, that should take around 6 hours to print (~70mm/s @3.5k accel) it might be more or less depending on your printer.
+Make sure to add support material to the front and back shell.
 
 
 
