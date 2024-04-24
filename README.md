@@ -9,7 +9,7 @@ For more info join our Discord server by [clicking here!](https://discord.gg/63j
 </p>
 
 ## About the project
-FloV3R is an DiY, affordable and super fun to build project made for tinkeres.
+FloV3R is an DiY, affordable and super fun to build project made for tinkeres/hackers (not consumers :p).
 It is built so that you can play any SteamVR game! It features 6DoF tracking on both the headset and controllers, which themself have a build in transcievers and LiPo batteries which make them wireless.
 
 The whole build should be a bit over $140 (with 5.5" 2K @60Hz display), but it might be more expensive depending on where you order the parts from. (It might be cheaper too :p)
