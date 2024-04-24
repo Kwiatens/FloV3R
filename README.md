@@ -77,7 +77,7 @@ Then plug it into you computer and flash the firmware to it. (todo)
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/ea015f0c-00d7-4f16-8023-958f9d73dde4)
 
 > FloV3R Controller R1 Schematic:
-![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/9cf3450f-3921-4bfd-b4a2-96a66f76b84b)
+![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/61807111-69c7-42fb-8920-dd89629b7918)
 
 
 FloV3R Controller works on Arduino Pro Mini, MPU6050 IMU and NRF24l01 transceiver module.
