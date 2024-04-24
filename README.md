@@ -106,6 +106,7 @@ Part list for FloV3R VR Controller R1 (for each controller):
 | 1K Resistor (SMD 1206) | 1 | < $0.01 |
 
 To flash the frimware on it I recommend 'TTL PL2303' programmer.
+You can download the driver for it by clicking [here](https://www.miklor.com/COM/UV_Drivers.php)
 
 Vibration motors will be added to this controllers in the future.
 
