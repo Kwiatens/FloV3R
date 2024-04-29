@@ -148,7 +148,7 @@ Be super careful with handeling the display! It's very thin and can be damaged e
 ## 3D Models and printing them
 
 The whole FloV3R set is almost entirely 3D Printed. It consists of many parts, which you can download from Printables.
-Two controllers and the headset will take ~12 hours to print (aprox).
+Two controllers and the headset will take ~18 hours to print (aprox).
 Everything is ment to be printed in PLA/ABS/ASA/PET-G filament.
 
 ### FloV3R Headset R1
