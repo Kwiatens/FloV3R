@@ -158,6 +158,9 @@ todo
 Our controller requires 8 - 3D printed parts, that should take around 6 hours to print (~70mm/s @3.5k accel) it might be more or less depending on your printer.
 Make sure to add support material to the front and back shell.
 
+# Future plans
+todo
+
 
 
 
