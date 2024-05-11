@@ -38,4 +38,4 @@ Here's what you gonna need to buy:
 For it to work you will need some long cables and at least two PS Eye cameras.
 We will talk about it a bit later so don't worry ;)
 
-Press [here](https://github.com/Kwiatens/FloV3R/blob/main/Instructions/FloV3R%20R1%20Headset%20PCB%20Guide.md) to move on!
+### Press [here](https://github.com/Kwiatens/FloV3R/blob/main/Instructions/FloV3R%20R1%20Headset%20PCB%20Guide.md) to move on!
