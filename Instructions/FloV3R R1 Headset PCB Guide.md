@@ -37,7 +37,10 @@ Here's a list of parts that we're gonna use:
 | 470R Resistor (SMD 1206) | 1 | < $0.01 |
 | | | Total: ~$11 + PCB |
 
-Make sure to begin soldering SMD resistors first than capatitors, electrolitic capatitors, LED's and finally breakout boards such as Arduino, IMU etc.
+Make sure to begin soldering SMD components than electrolitic capatitors, LED's and finally breakout boards such as Arduino, IMU etc.
 In general, you want to solder them in a specific order, from smallest to biggest parts, to avoid any problems.
+
+todo
+
 
 
