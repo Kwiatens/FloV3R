@@ -40,7 +40,17 @@ Here's what you gonna need to buy:
 **Neopixel with wires (this is how it should look like):
 ![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
 
-For the FloV3R set to work you will need some long cables and at least two PS Eye cameras.
+Here are the links from where I ordered the optic stuff:
+
+- Buy Fresnel lenses here: [AliExpress](https://pl.aliexpress.com/item/1005004217107517.html?spm=a2g0o.cart.0.0.3029452cEMsRbM&mp=1&gatewayAdapt=glo2pol)
+
+- Buy 5.5" LS055R1SX04 1440*2560 (2K @60Hz) display here: [AliExpress](https://pl.aliexpress.com/item/4000999801804.html?spm=a2g0o.order_list.order_list_main.5.23181c24EYUSo8&gatewayAdapt=glo2pol)
+
+- Buy LS055R1SX04 driver board here (<ins>Get the C version</ins>): [AliExpress](https://pl.aliexpress.com/item/1005005216344799.html?spm=a2g0o.order_list.order_list_main.4.23181c24EYUSo8&gatewayAdapt=glo2pol)
+
+Be super careful with handeling the display! It's very thin and can be damaged easily.
+
+Oh and for the FloV3R set to work you will need some long cables and at least two PS Eye cameras.
 We will talk about it a bit later so don't worry ;)
 
 ### Press [here](https://github.com/Kwiatens/FloV3R/blob/main/Instructions/FloV3R%20R1%20Headset%20PCB%20Guide.md) to move on!
