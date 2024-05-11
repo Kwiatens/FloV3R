@@ -35,6 +35,11 @@ Here's what you gonna need to buy:
 | 3.3K Resistors (SMD 1206) | 2 | < $0.01 |
 | | | Total: ~140$ |
 
+*Please DO NOT buy an Arduino Pro Micro with an micro USB connector, buy the USB-C one! (The micro USB ones have a suuuper weak solder joint with the connector and it can just break off - learned that the hard way...)
+
+**Neopixel with wires (this is how it should look like):
+![IMG_20240205_185522214](https://github.com/Kwiatens/FloV3R/assets/110034652/f8a02026-e44f-48e7-b214-850d3dad86cc)
+
 For it to work you will need some long cables and at least two PS Eye cameras.
 We will talk about it a bit later so don't worry ;)
 
