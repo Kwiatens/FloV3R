@@ -1,8 +1,8 @@
 ### Building FloV3R - Part 2 - What are you gonna need to build it
 
-Ok, so you want to make it huh? :p
-Here's what you gonna need to buy:
+Ok, so you really want to make it huh? :p
 
+Here's what you gonna need to buy:
 | Part  | Quantity | Estimated Price per piece |
 | ------------- | ------------- | ------------- |
 | LS055R1SX04 Driver board | 1 | $45 |
