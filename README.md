@@ -14,6 +14,8 @@ It is built so that you can play any SteamVR game! It features 6DoF tracking on 
 
 The whole build should be a bit over $140 (with 5.5" 2K @60Hz display), but it might be more expensive depending on where you order the parts from. (It might be cheaper too :p)
 
+### Press [here](https://github.com/Kwiatens/FloV3R/blob/main/Instructions/About%20the%20project.md) to get started!
+
 ## Printed Circuit Boards
 
 I designed the schematics and PCB's using KiCad 7.0.9 and 8.0. They are designed by me, but I took some inspiration from [HadesVR](https://github.com/HadesVR/HadesVR) due to the use of it's Steam driver (planning to make my own driver in the future, so more cool stuff can be added).
