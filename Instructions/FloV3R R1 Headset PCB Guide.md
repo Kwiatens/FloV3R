@@ -38,7 +38,7 @@ Here's a list of parts that we're gonna use:
 | | | Total: ~$11 + PCB |
 
 Make sure to begin soldering SMD resistors first than capatitors, electrolitic capatitors, LED's and finally breakout boards such as Arduino, IMU etc.
-In general, you want to solder them in a specific order, from smallest to biggest parts.
+In general, you want to solder them in a specific order, from smallest to biggest parts, to avoid any problems.
 
 Then plug it into you computer and flash the firmware to it. (todo)
 
