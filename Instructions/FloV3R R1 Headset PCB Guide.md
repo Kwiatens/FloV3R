@@ -8,7 +8,7 @@ This is what we are gonna build now:
 > FloV3R R1 GEN 5 Mainboard Schematic:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/3382e2a8-382d-47ce-9b34-629fe293ed5d)
 
-This board will be inside your headset, it collects the rotation data from the IMU, recieves data packets from controllers, sends it to your computer via USB and controls face cooling fans.
+This board will be inside your headset, it collects the rotation data from the IMU, recieves data packets from controllers, sends it to your computer via USB etc.
 
 In future it will send data to the controller so it knows when to turn on/off the vibration motor inside of it.
 It uses some SMD components, but don't be scared of them, they are pretty big and after one youtube tutorial you will be able to do it. 
