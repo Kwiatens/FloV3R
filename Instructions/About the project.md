@@ -6,3 +6,6 @@ It features 6DoF tracking on both the headset and controllers, which themself ha
 
 The whole build should be a bit over $140 (including controllers), but it might be more expensive depending on where you order the parts from. (It might be cheaper too :p)
 
+todo
+
+### Continue building your FloV3R VR by pressing [here](https://github.com/Kwiatens/FloV3R/blob/main/Instructions/List%20of%20All%20Parts.md).
