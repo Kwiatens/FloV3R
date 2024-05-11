@@ -1,5 +1,6 @@
 ### Building FloV3R - Part 3 - FloV3R Headset PCB
 Alright, enough chit chat, let's move on into real work :)
+
 This is what we are gonna build now:
 > FloV3R R1 GEN 5 Headset Mainboard:
 ![obraz](https://github.com/Kwiatens/FloV3R/assets/110034652/1c912fa8-ed6f-4ef0-9f0a-33c0d00a81ab)
