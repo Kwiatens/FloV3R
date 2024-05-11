@@ -8,7 +8,7 @@ Here's what you gonna need to buy:
 | LS055R1SX04 Driver board | 1 | $45 |
 | LS055R1SX04 Display | 1 | $24 |
 | PS3 Eye Camera | 2-3 | 7.5$ |
-| Arduino Pro Micro | 1 | $5 |
+| Arduino Pro Micro* | 1 | $5 |
 | Cheapest "smartphone" headset (for cushion and head strap) | 1 | 4$ |
 | LiPo 1S 3.7V battery (minimum recommended capacity - 1200mAh/4.44Wh)| 2 | $4 | 
 | 1914 ALPS Analog stick (Xbox one) | 2 | $3 |
