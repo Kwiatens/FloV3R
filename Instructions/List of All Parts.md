@@ -1,4 +1,7 @@
-# Part list (everything):
+### Building FloV3R - Part 2 - What are you gonna need to build it
+
+Ok, so you want to make it huh? :p
+Here's what you gonna need to buy:
 
 | Part  | Quantity | Estimated Price per piece |
 | ------------- | ------------- | ------------- |
@@ -31,3 +34,8 @@
 | 470R Resistor (SMD 1206) | 1 | < $0.01 |
 | 3.3K Resistors (SMD 1206) | 2 | < $0.01 |
 | | | Total: ~140$ |
+
+For it to work you will need some long cables and at least two PS Eye cameras.
+We will talk about it a bit later so don't worry ;)
+
+Press [here](https://github.com/Kwiatens/FloV3R/blob/main/Instructions/FloV3R%20R1%20Headset%20PCB%20Guide.md) to move on!
