@@ -1,4 +1,4 @@
-# FloV3R - DiY 6DoF VR Headset
+# FloV3R - DiY 6DoF VR Headset and Controllers
 [This project is currently in developement, do not make it yet]
 
 For more info join our Discord server by [clicking here!](https://discord.gg/63jcr22wdD)
