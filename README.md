@@ -161,6 +161,8 @@ FloV3R Headset is made out of 12 3D Printed parts, that should take around 12 ho
 Our controller requires 8 - 3D printed parts, that should take around 6 hours to print (~70mm/s @3.5k accel) it might be more or less depending on your printer.
 Make sure to add support material to the front and back shell.
 
+You can download FloV3R Controller R1 3D files here: https://www.printables.com/model/954628-flov3r-vr-controller
+
 # Future plans
 todo
 
